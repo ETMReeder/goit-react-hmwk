@@ -1,0 +1,30 @@
+.transHeader {
+    background-color: #c52936;
+    color: beige;
+    font-weight: 700;
+}
+
+.transBody {
+    border: .5px;
+    
+}
+.rowOdd{
+    background-color: aquamarine;
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.rowEven{
+    background-color: bisque;
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+    display: flex;
+    justify-content: center;
+    
+
+}
